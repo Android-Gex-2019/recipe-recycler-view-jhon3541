@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Recipe Manager</string>
+    <string name="second_activity_name">Recipe Details</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
